@@ -19,8 +19,8 @@ const int SERVO_PIN  = 18;
 const int BUZZER_PIN = 26;
 const bool IR_ACTIVE_LOW = true;
 
-const int SERVO_REST_ANGLE   = 0;
-const int SERVO_ACTIVE_ANGLE = 90;
+const int SERVO_REST_ANGLE   = 90;
+const int SERVO_ACTIVE_ANGLE = 0;
 
 Servo myservo;
 
